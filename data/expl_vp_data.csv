@@ -1,0 +1,232 @@
+abbr,name,Tmin [C],Tmax [C],mp [C],A [log10(atm)],B [K],C [K],SE [atm],ref,data_source,data_num
+"2,4-DNT","2,4-Dinitrotoluene",44.85,64.85,69.85,10.21847657,4972.237523,0,,Félix-Rivera 2011,Félix-Rivera 2011,10
+"2,4-DNT","2,4-Dinitrotoluene",-3,42,70,10.28,4948,0,,Freedman 2008 [55],Ewing 2013,1
+"2,4-DNT","2,4-Dinitrotoluene",59,69,70,10.71,5129,0,,Lenchitz 1970 [51],Ewing 2013,1
+"2,4-DNT","2,4-Dinitrotoluene",200,299,70,5.14,3039,0,,Maksimov 1968 [25],Ewing 2013,1
+"2,4-DNT","2,4-Dinitrotoluene",81,165,70,6.48,3664,0,,Molard 1958 [66],Ewing 2013,1
+"2,4-DNT","2,4-Dinitrotoluene",4,71,70,10.2,4992,0,,Pella 1976 [44],Ewing 2013,1
+"2,4-DNT","2,4-Dinitrotoluene",32,73,70,10.02,4921,0,,Rittfeldt 2001 [33],Ewing 2013,1
+"2,4-DNT","2,4-Dinitrotoluene",27,73,70,8.25,4309,0,,Rittfeldt 2001 [33],Ewing 2013,1
+"2,6-DNT","2,6-Dinitrotoluene",2,52,70,11.47,5203,0,,Freedman 2008 [55],Ewing 2013,1
+"2,6-DNT","2,6-Dinitrotoluene",71,153,70,6.52,3586,0,,Molard 1958 [66],Ewing 2013,1
+"2,6-DNT","2,6-Dinitrotoluene",4,50,70,11.11,5139,0,,Pella 1976 [44],Ewing 2013,1
+2AE,2-aminoethanol,65.45,170.95,10.31,4.28680327,1408.873,-116.093,,Matthews 1950,NIST,2
+2AE,2-aminoethanol,-14.98,10,10.3,11.81723725,5031.010743,38.72190213,0.005452509,Ruzika 2015,Ruzika 2015,13
+2AE,2-aminoethanol,12.5,30.01,10.3,5.99630133,2400.286359,-38.25771322,0.001200461,Ruzika 2015,Ruzika 2015,13
+2-MNT,2-Nitrotoluene,115,175,-2.15,4.44770327,1906.532,-65.441,,Aim 1994,Aim 1994,32
+2-MNT,2-Nitrotoluene,50,220,-2.15,5.09203327,2513,0,,Berliner 1926,Aim 1994,32
+2-MNT,2-Nitrotoluene,129.31,222.15,-2.15,3.28735327,1130.679,-151.524,,Dreisbach 1949,NIST,2
+2-MNT,2-Nitrotoluene,129,222,-2.15,4.61372327,2086.1,-43.15,,Dreisbach 1949,Aim 1994,32
+2-MNT,2-Nitrotoluene,129,222,-2.15,4.31471327,1827.66,-71.63,,Dykyj 1979,Aim 1994,32
+2-MNT,2-Nitrotoluene,138,222,-2.15,5.40988327,2677.4,0,,Hara 1976,Aim 1994,32
+2-MNT,2-Nitrotoluene,82,119,-2.15,5.99018327,2898.02,0,,Kahlbaum 1898,Aim 1994,32
+2-MNT,2-Nitrotoluene,114,220,-2.15,5.09638327,2380.18,-26.333,,Levin 1938,Aim 1994,32
+2-MNT,2-Nitrotoluene,90,223,-2.15,5.40838327,2689.06,0,,Salachijev 1973,Aim 1994,32
+2-MNT,2-Nitrotoluene,7.68,88.84,-2.15,4.369483116,1872.171347,-67.32628871,0.001011278,Stejfa 2021,Stejfa 2021,12
+2-MNT,2-Nitrotoluene,50,222,-2.15,5.11265327,2448.83,-16.546,,"Stull 1947, Wichterle 1970",Aim 1994,32
+2-MNT,2-Nitrotoluene,10,40,-2.15,6.693228117,3103.128491,0,0.008511652,Widegreen 2010,Widegreen 2010,4
+34-DNP,"3,4-dinitropyrazole",200,470,87.5,7.422092696,4751.181632,0,,Sinditskii 2017,Sinditskii 2017,33
+35-DNP,"3,5-dinitropyrazole",111.46,168.3,168.3,11.01,5475.2,0,,Gorn 2020,Gorn 2020,7
+35-DNP,"3,5-dinitropyrazole",226.85,351.85,168.3,8.2673,4247.4,0,,Gorn 2020,Gorn 2020,7
+3-MNT,3-Nitrotoluene,124,179,15.44,4.49437327,1993.739,-61.629,,Aim 1994,Aim 1994,32
+3-MNT,3-Nitrotoluene,50,232,15.44,5.18471327,2618.2,0,,Berliner 1926,Aim 1994,32
+3-MNT,3-Nitrotoluene,80,232,15.44,4.99886327,2481.45,-8.58,,Dykyj 1979,Aim 1994,32
+3-MNT,3-Nitrotoluene,140,233,15.44,5.11018327,2586.2,0,,Hara 1976,Aim 1994,32
+3-MNT,3-Nitrotoluene,171,207,15.44,4.45140327,1900.49,-74.311,,Levin 1938,Aim 1994,32
+3-MNT,3-Nitrotoluene,90,232,15.44,5.12918327,2579.75,0,,Salachijev 1973,Aim 1994,32
+3-MNT,3-Nitrotoluene,50,207,15.44,4.07976327,1778.69,-71.803,,"Stull 1947, Wichterle 1970",Aim 1994,32
+3-MNT,3-Nitrotoluene,20,40,15.44,6.050000963,2965.44854,0,0.014234118,Widegreen 2010,Widegreen 2010,4
+AN,Ammonium nitrate,135,260,169,8.018774782,4444.569728,0,,Brady 2012,Brady 2012,3
+AN,Ammonium nitrate,138,222,169,8.453069264,4630.882061,0,,Brady 2012,Brady 2012,3
+AN,Ammonium nitrate,136,224,169,8.526899326,4665.191325,0,,Brady 2012,Brady 2012,3
+AN,Ammonium nitrate,137,262,169,8.374896258,4597.007091,0,,Brady 2012,Brady 2012,3
+AN,Ammonium nitrate,170,240,170,7.1088,4358.4,0,0.030488201,Brandner 1962 [41],Ewing 2013,1
+AN,Ammonium nitrate,76,165,170,7.853,4679.8,0,0.03310744,Brandner 1962 [41],Ewing 2013,1
+AN,Ammonium nitrate,40,87,170,8.39,4783,0,,Chien 2010 [63],Ewing 2013,1
+AN,Ammonium nitrate,40,80,170,3.97,3541,0,,Dionne 1986 [40],Ewing 2013,1
+AN,Ammonium nitrate,188.2,249.1,170,7.09,4357,0,,Feick 1954 [37],Ewing 2013,1
+AN,Ammonium nitrate,60,87,170,8.26,4770,0,,Hildenbrand 2010 [62],Ewing 2013,1
+AN,Ammonium nitrate,100,160,170,10.26,5511,0,,Oxley 2010 [47],Ewing 2013,1
+ANI,Aniline,57.3,115,-6.15,4.153467245,1549.124776,-85.92423108,0.015442109,Gould 1947,Gould 1947,19
+ANI,Aniline,30.85,183.85,-6.15,4.33969327,1661.858,-74.048,,Hatton 1962,NIST,2
+ANI,Aniline,4.2,77.66,-6.15,5.671900195,2462.424777,-16.60881417,0.043341894,Maher 1980,Maher 1980,18
+ANI,Aniline,76.817,225.696,-6.15,4.283582762,1613.645479,-80.54703225,0.000344308,Steele 2002,Steele 2002,17
+AP,Ammonium perchlorate,247,347,347,7.68,6284,0,,Inami 1963 [45],Ewing 2013,1
+BDNPA,"Bis(2,2-dinitropropyl)acetal",80,110,32,8.43428327,4851.4,0,,Rauch 2007,Rauch 2007,14
+BDNPF,Bis(dinitropropyl) formal,80,110,31,7.16928327,4420.7,0,,Rauch 2007,Rauch 2007,14
+DADP,Diacetone diperoxide,73,86,132,8.570328775,3642.42782,0,,Brady 2012,Brady 2012,3
+DADP,Diacetone diperoxide,75,86,132,8.500841657,3659.365305,0,,Brady 2012,Brady 2012,3
+DADP,Diacetone diperoxide,57,94,132,9.816753938,4049.796044,0,,Brady 2012,Brady 2012,3
+DADP,Diacetone diperoxide,60,97,132,9.16965516,3837.860337,0,,Brady 2012,Brady 2012,3
+DADP,Diacetone diperoxide,60,96,132,9.28691467,3878.684018,0,,Brady 2012,Brady 2012,3
+DADP,Diacetone diperoxide,60,96,132,9.030680925,3793.562299,0,,Brady 2012,Brady 2012,3
+DADP,Diacetone diperoxide,-7.3,21.7,138,11.3,4417,0,,Damour 2010 [56],Ewing 2013,1
+DADP,Diacetone diperoxide,67.5,119.8,138,9.455621964,3880.966438,0,0.041182015,Egorshev 2013,Egorshev 2013,30
+DADP,Diacetone diperoxide,1.55,40.95,138,7.943937419,3019.293075,-36.1312085,0.011753027,Hartel 2017,Hartel 2017,31
+DADP,Diacetone diperoxide,15,50,138,10.59,4275,0,,Oxley 2009 [31],Ewing 2013,1
+DATB,"1,3-Diamino-2,4,6-trinitrobenzene",92.8,176.8,294,11.86,7492,0,,Cundall 1981 [54],Ewing 2013,1
+DATB,"1,3-Diamino-2,4,6-trinitrobenzene",62.6,108.1,294,10.85,7314,0,,Rosen 1969 [58],Ewing 2013,1
+DMDNB,"2,3-Dimethyl-2,3-dinitrobutane",19.92,43.14,208.4,15.50053352,9542.854198,154.8878529,0.009934204,Stejfa 2021,Stejfa 2021,12
+DMDNB,"2,3-Dimethyl-2,3-dinitrobutane",43.2,103.2,208.4,8.979648726,4221.475504,-8.755419816,0.001134958,Stejfa 2021,Stejfa 2021,12
+DNAN,"2,4-dinitroanisole",55,90,91,35.73110567,12978.4563,0,,Cuddy 2014,Cuddy 2014,6
+DNAN,"2,4-dinitroanisole",165,250,91,6.720234282,4107.55721,0,,Cuddy 2014,Cuddy 2014,6
+DNAN,"2,4-dinitroanisole",50,90,94.5,11.14426845,5764.946399,0,0.040913571,Liu 2013,Liu 2013,11
+DNAN,"2,4-dinitroanisole",100,150,94.5,8.308987718,4726.549838,0,0.042251673,Liu 2013,Liu 2013,11
+DNAN,"2,4-dinitroanisole",50.88,87.93,94.5,12.44231884,6196.894508,0,0.045958156,Zhang 2014,Zhang 2014,8
+DNAN,"2,4-dinitroanisole",97.54,143.81,94.5,9.160617505,5008.36069,0,0.032928448,Zhang 2014,Zhang 2014,8
+DNTF,"3,4-dinitrofurazanfuroxan",50,110,110,12.88684646,6392.159281,0,0.043854268,Liu 2013,Liu 2013,11
+DNTF,"3,4-dinitrofurazanfuroxan",110,150,110,8.521274848,4697.462744,0,0.019580341,Liu 2013,Liu 2013,11
+DNTF,"3,4-dinitrofurazanfuroxan",51.02,105.91,110,14.63893494,6989.055693,0,0.033302004,Zhang 2014,Zhang 2014,8
+DNTF,"3,4-dinitrofurazanfuroxan",115.49,143.9,110,8.807951865,4748.987194,0,0.015625299,Zhang 2014,Zhang 2014,8
+EGDN,Ethylene glycol dinitrate,74.5,117,-22,6.97,3256,0,,Belajev 1941 [38],Ewing 2013,1
+EGDN,Ethylene glycol dinitrate,20,50,-22,8.02,3582,0,,Brandner 1938 [60],Ewing 2013,1
+EGDN,Ethylene glycol dinitrate,15,55,-22,8.78,3818,0,,Crater 1929 [59],Ewing 2013,1
+EGDN,Ethylene glycol dinitrate,-33,25,-22,7.67,3476,0,,Pella 1976 [44],Ewing 2013,1
+EGDN,Ethylene glycol dinitrate,0,22,-22,7.13,3324,0,,Rinkenbach 1926 [48],Ewing 2013,1
+EGDN,Ethylene glycol dinitrate,20,60,-22,11.54,4926,0,,Vacek 1959 [65],Ewing 2013,1
+GN,Guanidine nitrate,245,290,213,19.64483806,11709.44782,0,,Brady 2012,Brady 2012,3
+GN,Guanidine nitrate,247,295,213,20.64805832,12280.54506,0,,Brady 2012,Brady 2012,3
+GN,Guanidine nitrate,205,225,213,26.35,14587,0,,Oxley 2010 [47],Ewing 2013,1
+HMTD,Hexamethylene Triperoxide Diamine,28,80,80,5.851645318,4816.760099,0,0.00991932,Aernecke 2015,Aernecke 2015,5
+HMTD,Hexamethylene Triperoxide Diamine,10,80,80,6.16604937,4787.258805,-1.002066867,0.003697806,Aernecke 2015,Aernecke 2015,5
+HMTD,Hexamethylene Triperoxide Diamine,10,80,80,3.848806711,3426.923838,-54.38036511,,Alnemrat 2013,Aernecke 2015,5
+HMX,Cyclotetramethylene tetranitramine,245,270,282,14.21181409,8883.927922,0,,Brady 2012,Brady 2012,3
+HMX,Cyclotetramethylene tetranitramine,245,275,282,14.28130121,8934.306082,0,,Brady 2012,Brady 2012,3
+HMX,Cyclotetramethylene tetranitramine,245,272,282,14.41158956,8997.278782,0,,Brady 2012,Brady 2012,3
+HMX,Cyclotetramethylene tetranitramine,245,275,282,14.21181409,8883.927922,0,,Brady 2012,Brady 2012,3
+HMX,Cyclotetramethylene tetranitramine,141.8,206.2,275,11.83,8407,0,,Cundall 1981 [54],Ewing 2013,1
+HMX,Cyclotetramethylene tetranitramine,40,80,275,6.562645639,6469.404497,0,0.141451312,Morrison 2021,Morrison 2021,34
+HMX,Cyclotetramethylene tetranitramine,97.6,129.3,275,13.3,9154,0,,Rosen 1969 [58],Ewing 2013,1
+HMX,Cyclotetramethylene tetranitramine,188,213,275,12.32,8296,0,,Taylor 1974 [52],Ewing 2013,1
+HMX,Cyclotetramethylene tetranitramine,188,213,275,11.82,8296,0,,Taylor 1974 [52],Ewing 2013,1
+HNS,Hexanitrostilbene,257,312,325,9.808068048,7548.906684,0,,Brady 2012,Brady 2012,3
+HNS,Hexanitrostilbene,252,311,325,9.907955779,7622.302452,0,,Brady 2012,Brady 2012,3
+HNS,Hexanitrostilbene,247,312,325,10.60716989,7997.967179,0,,Brady 2012,Brady 2012,3
+HNS,Hexanitrostilbene,251,316,325,10.72877235,8055.728345,0,,Brady 2012,Brady 2012,3
+HNS,Hexanitrostilbene,161.4,206.3,318,11.31,9399,0,,Rosen 1969 [58],Ewing 2013,1
+HP,Hydrogen peroxide,15,90,-0.4,5.962,2535,0,,Maass 1924 [27],Ewing 2013,1
+NG,Nitroglycerin,30,50,13,7.32,3974,0,,Brandner 1938 [60],Ewing 2013,1
+NG,Nitroglycerin,15,55,13,6.29,3515,0,,Crater 1929 [59],Ewing 2013,1
+NG,Nitroglycerin,20,94,13,9.21,4602,0,,Dionne 1986 [40],Ewing 2013,1
+NG,Nitroglycerin,20,40,13,12.55,5603,0,,Kemp 1957 [46],Ewing 2013,1
+NG,Nitroglycerin,20,93,13,8.84,4488,0,,Marshall 1916 [42],Ewing 2013,1
+NG,Nitroglycerin,25,240,13,6.47842904,3051.78389,-50.72746857,0.03688162,Suceska 2010,Suceska 2010,15
+NG,Nitroglycerin,17,35.4,13,5.944476969,3658.86464,0,0.030548259,Tunnel 2016,Tunnel 2016,26
+NG,Nitroglycerin,20,60,13,10.31,4975,0,,Vacek 1959 [65],Ewing 2013,1
+NGu,Nitroguanidine,190,225,236,12.62663924,7275.301161,0,,Cuddy 2014,Cuddy 2014,6
+NGu,Nitroguanidine,129.2,199.8,232,11.26,7452,0,,Cundall 1981 [54],Ewing 2013,1
+NM,Nitromethane,131.85,202.85,-29.15,4.10778327,1229.574,-76.221,,Berman 1967,NIST,2
+NM,Nitromethane,10,100,-29,5.206,1946,0,,Holcomb 1949 [26],Ewing 2013,1
+NM,Nitromethane,24,26,-29,5.69,2089,0,,Jones 1947 [29],Ewing 2013,1
+NM,Nitromethane,55,101,-29,5.11,1912,0,,McCullough 1954 [39],Ewing 2013,1
+NMP,N-methyl-2-pyrrolidine,141.3,201.95,-25,4.042082203,1508.535023,-101.8722514,0.002223192,Blanco 1997,Blanco 1997,22
+NMP,N-methyl-2-pyrrolidine,79.12,104.71,-25,5.063636197,2214.466207,-34.08203136,0.00127399,Chylinski 2004,Chylinski 2004,21
+NMP,N-methyl-2-pyrrolidine,63.73,204.21,-25,4.034189561,1562.572281,-89.71062267,0.002585531,Kneisl 1987,Kneisl 1987,25
+NMP,N-methyl-2-pyrrolidine,56.85,99.76,-25,7.305735954,3773.461121,57.53928944,0.013674654,Linek 1996,Linek 1996,23
+NMP,N-methyl-2-pyrrolidine,107.58,202.57,-25,4.359902523,1785.940512,-66.866,,Palczewska-Tulinska 2007,Palczewska-Tulinska 2007,20
+NMP,N-methyl-2-pyrrolidine,0.5,35.02,-25,5.145397259,2236.385663,-34.50708142,0.000486988,Ruzika 2015,Ruzika 2015,13
+NMP,N-methyl-2-pyrrolidine,25,125,-25,5.532945921,2668.153712,6.731172717,0.000850087,Weidliich 1987,Weidliich 1987,24
+NTO,"3-Nitro-1,2,4-triazol-5-one",161,214,273,6.728920171,4659.111202,0,,Brady 2012,Brady 2012,3
+NTO,"3-Nitro-1,2,4-triazol-5-one",159,209,273,6.837493792,4758.998933,0,,Brady 2012,Brady 2012,3
+NTO,"3-Nitro-1,2,4-triazol-5-one",165,214,273,9.26954289,5907.707837,0,,Brady 2012,Brady 2012,3
+NTO,"3-Nitro-1,2,4-triazol-5-one",205,250,265,12.84378648,7690.92098,0,,Cuddy 2014,Cuddy 2014,6
+PETN,Pentaerythritol tetranitrate,111,140,143,17.85120185,8820.520927,0,,Brady 2012,Brady 2012,3
+PETN,Pentaerythritol tetranitrate,113,140,143,18.16389388,8943.426266,0,,Brady 2012,Brady 2012,3
+PETN,Pentaerythritol tetranitrate,116,142,143,17.67748406,8762.325467,0,,Brady 2012,Brady 2012,3
+PETN,Pentaerythritol tetranitrate,116,144,143,17.94674664,8882.190744,0,,Brady 2012,Brady 2012,3
+PETN,Pentaerythritol tetranitrate,50,98,141,11.56,6352,0,,Crimmins 1969 [53],Ewing 2013,1
+PETN,Pentaerythritol tetranitrate,54.7,131.9,141,15.19,7856,0,,Cundall 1981 [54],Ewing 2013,1
+PETN,Pentaerythritol tetranitrate,18,38,141,13.56,7243,0,,Dionne 1986 [40],Ewing 2013,1
+PETN,Pentaerythritol tetranitrate,97,138,141,14.85,7750,0,,Edwards 1953 [50],Ewing 2013,1
+PETN,Pentaerythritol tetranitrate,110,135,141,14.51582023,7465.522144,0,,Hikal 2014,Hikal 2014,29
+PETN,Pentaerythritol tetranitrate,83,109,141,16.51,8197,0,,Lau 2004 [61],Ewing 2013,1
+PGDN,Propylene Glycol Dinitrate,25,70,-30,8.713245793,3955.823584,0,0.08257345,Fettaka 2016,Fettaka 2016,28
+p-MNT,P-Nitrotoluene,128,184,52,4.36221327,1931.718,-68.661,,Aim 1994,Aim 1994,32
+p-MNT,P-Nitrotoluene,143,226,52,4.26645327,1862.295,-75.321,,Ambrose 1980,Aim 1994,32
+p-MNT,P-Nitrotoluene,50,238,52,5.10067327,2608.9,0,,Berliner 1926,Aim 1994,32
+p-MNT,P-Nitrotoluene,147.71,233.25,51.85,4.08668327,1699.858,-90.468,,Dreisbach 1949,NIST,2
+p-MNT,P-Nitrotoluene,148,233,52,4.64241327,2150.6,-43.15,,Dreisbach 1949,Aim 1994,32
+p-MNT,P-Nitrotoluene,138,238,52,5.16668327,2640.5,0,,Hara 1976,Aim 1994,32
+p-MNT,P-Nitrotoluene,92,118,52,6.35368327,3119.04,0,,Kahlbaum 1898,Aim 1994,32
+p-MNT,P-Nitrotoluene,24,36,52,9.861,4189,0,,Lenchitz 1970 [51],Ewing 2013,1
+p-MNT,P-Nitrotoluene,114,220,52,4.18612327,1802.23,-81.172,,Levin 1938,Aim 1994,32
+p-MNT,P-Nitrotoluene,86,121,52,8.33068327,4528.95,63.019,,Mann 1936,Aim 1994,32
+p-MNT,P-Nitrotoluene,99,238,52,5.06918327,2579.75,0,,Salachijev 1973,Aim 1994,32
+p-MNT,P-Nitrotoluene,8.11,38.99,51.55,8.465853397,3601.58526,-13.60604168,0.001008202,Stejfa 2021,Stejfa 2021,12
+p-MNT,P-Nitrotoluene,8.11,47.81,51.55,10.35682618,4823.252206,31.95300903,0.011115226,Stejfa 2021,Stejfa 2021,12
+p-MNT,P-Nitrotoluene,39.06,93.2,44.05,4.596093009,2081.81621,-56.79093163,0.000212956,Stejfa 2021,Stejfa 2021,12
+p-MNT,P-Nitrotoluene,54,238,52,5.40033327,2889.12,23.37,,"Stull 1947, Wichterle 1970, 27",Aim 1994,32
+p-MNT,P-Nitrotoluene,10,40,52,8.891535566,3906.464798,0,0.004958099,Widegreen 2010,Widegreen 2010,4
+RDX,Cyclotrimethylene trinitramine,69.25,123.95,210,9.880395317,5664.810599,-29.24639004,0.002922827,Bikelyte 2020,Bikelyte 2020,27
+RDX,Cyclotrimethylene trinitramine,146,180,204,9.117539822,5672.754523,0,,Brady 2012,Brady 2012,3
+RDX,Cyclotrimethylene trinitramine,157,190,204,12.3617196,7048.599441,0,,Brady 2012,Brady 2012,3
+RDX,Cyclotrimethylene trinitramine,148,200,204,9.994814675,6048.853544,0,,Brady 2012,Brady 2012,3
+RDX,Cyclotrimethylene trinitramine,151,176,204,11.6060472,6780.205451,0,,Brady 2012,Brady 2012,3
+RDX,Cyclotrimethylene trinitramine,170,200,210,13.66894599,7671.812023,0,,Cuddy 2014,Cuddy 2014,6
+RDX,Cyclotrimethylene trinitramine,70.2,174.2,205,12.23,7011,0,,Cundall 1981 [54],Ewing 2013,1
+RDX,Cyclotrimethylene trinitramine,37,102,205,10.5,6473,0,,Dionne 1986 [40],Ewing 2013,1
+RDX,Cyclotrimethylene trinitramine,110,138,205,8.99,5850,0,,Edwards 1953 [50],Ewing 2013,1
+RDX,Cyclotrimethylene trinitramine,74.85,109.85,205.85,7.579225571,5189.819059,0,,Félix-Rivera 2011,Félix-Rivera 2011,10
+RDX,Cyclotrimethylene trinitramine,73.85,95.85,204,12.19234475,6713.758396,0,,Hikal 2011,Hikal 2011,16
+RDX,Cyclotrimethylene trinitramine,100,140,210,12.00125518,6887.910483,0,,Hikal 2014,Hikal 2014,29
+RDX,Cyclotrimethylene trinitramine,7,31,210,13.4741852,7166.605633,0,0.115828665,Morrison 2021,Morrison 2021,34
+RDX,Cyclotrimethylene trinitramine,231.85,246.85,210,7.67828915,4415.907819,0,0.002680949,Rogers 1973,Rogers 1973,9
+RDX,Cyclotrimethylene trinitramine,55.7,97.7,205,11.3,6799,0,,Rosen 1969 [58],Ewing 2013,1
+SA,styphnic acid,52,162.7,180,10.91,6301,0,,Cundall 1981 [54],Ewing 2013,1
+TATB,"1,3,5-Triamino-2,4,6-trinitrobenzene",129.3,177.3,350,11.85,8787,0,,Rosen 1969 [58],Ewing 2013,1
+TATP,Triacetone triperoxide,70,96,95,10.24236253,4371.608255,0,,Brady 2012,Brady 2012,3
+TATP,Triacetone triperoxide,70,96,95,10.29013492,4390.717212,0,,Brady 2012,Brady 2012,3
+TATP,Triacetone triperoxide,77,96,95,10.22499075,4370.305371,0,,Brady 2012,Brady 2012,3
+TATP,Triacetone triperoxide,-3.3,33.8,91,10.85,4497,0,,Damour 2010 [56],Ewing 2013,1
+TATP,Triacetone triperoxide,75,94,95,12.08957846,5025.216444,0,0.04766692,Egorshev 2013,Egorshev 2013,30
+TATP,Triacetone triperoxide,98.5,142.7,95,6.254441323,2875.877984,0,0.024075265,Egorshev 2013,Egorshev 2013,30
+TATP,Triacetone triperoxide,29.85,64.85,95,8.270796104,3768.503508,0,,Félix-Rivera 2011,Félix-Rivera 2011,10
+TATP,Triacetone triperoxide,1.15,40.95,95,5.825890991,2237.989869,-74.28251352,0.015763961,Hartel 2017,Hartel 2017,31
+TATP,Triacetone triperoxide,12,58,91,14.79,5708,0,,Oxley 2005 [32],Ewing 2013,1
+TATP,Triacetone triperoxide,15,50,91,8.64,3787,0,,Oxley 2009 [31],Ewing 2013,1
+TATP,Triacetone triperoxide,40,59,91,12.45,4788,0,,Oxley 2010 [47],Ewing 2013,1
+tetryl,"N-Methyl-n,2,4,6-tetranitroaniline",62.2,142.8,130,12.3,6987,0,,Cundall 1981 [54],Ewing 2013,1
+TEX,"4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diaza-tetracyclododecane",134,237,250,9.473661297,5999.778267,0,,Brady 2012,Brady 2012,3
+TEX,"4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diaza-tetracyclododecane",174,247,250,10.49425333,6550.897965,0,,Brady 2012,Brady 2012,3
+TEX,"4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diaza-tetracyclododecane",147,237,250,10.7244294,6642.099806,0,,Brady 2012,Brady 2012,3
+TNA,"2,4,6-Trinitroaniline",53,175.7,370,11.29,6545,0,,Cundall 1981 [54],Ewing 2013,1
+TNA,"2,4,6-Trinitroaniline",55.7,97.6,370,9.22,6056,0,,Rosen 1969 [58],Ewing 2013,1
+TNAZ,"1,3,3-Trinitroazeditine",71,96,101,14.47673373,6530.920419,0,,Brady 2012,Brady 2012,3
+TNAZ,"1,3,3-Trinitroazeditine",70,100,101,14.36381716,6519.194468,0,,Brady 2012,Brady 2012,3
+TNAZ,"1,3,3-Trinitroazeditine",73,94,101,16.14442454,7138.932694,0,,Brady 2012,Brady 2012,3
+TNAZ,"1,3,3-Trinitroazeditine",70,97,101,13.59077299,6180.879066,0,,Brady 2012,Brady 2012,3
+TNAZ,"1,3,3-Trinitroazeditine",70,97,101,15.43218159,6827.977844,0,,Brady 2012,Brady 2012,3
+TNAZ,"1,3,3-Trinitroazeditine",73,93,101,13.49088525,6150.044158,0,,Brady 2012,Brady 2012,3
+TNB,"1,3,5-Trinitrobenzene",40.8,121.6,123,11.11,5608,0,,Cundall 1981 [54],Ewing 2013,1
+TNC,"2,4,6-Trinitro-m-cresol",36.9,92.5,108,10.71,5808,0,,Cundall 1981 [54],Ewing 2013,1
+TNM,"2,4,6-Trinitromesitylene",46,124.5,229,9.75,5410,0,,Cundall 1981 [54],Ewing 2013,1
+TNP,picric acid,40.9,132.9,123,9.39,5488,0,,Cundall 1981 [54],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",28.3,76,81,11.64,5900,0,,Cundall 1981 [54],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",20,140,81,10.37,5481,0,,Dionne 1986 [40],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",50,143,81,12.46,6180,0,,Edwards 1950 [49],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",39.85,64.85,80.85,10.85515228,5578.078326,0,,Félix-Rivera 2011,Félix-Rivera 2011,10
+TNT,"2,4,6-Trinitrotoluene",50.47459547,70.49261168,81,10.15116069,5236.722863,0,,Hikal 2011,Hikal 2011,16
+TNT,"2,4,6-Trinitrotoluene",55,80,80.4,8.370553313,5075.59961,0,,Hikal 2014,Hikal 2014,29
+TNT,"2,4,6-Trinitrotoluene",12,40,81,16.42,7371,0,,Leggett 1977 [30],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",55,76,81,10.41,5478,0,,Lenchitz 1970 [51],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",50,80,80.5,14.12921976,6722.75565,0,0.070832235,Liu 2013,Liu 2013,11
+TNT,"2,4,6-Trinitrotoluene",90,150,80.5,7.988562343,4526.736511,0,0.037685321,Liu 2013,Liu 2013,11
+TNT,"2,4,6-Trinitrotoluene",230,250,81,5.7,3538,0,,Maksimov 1968 [25],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",80,120,81,-2.22,165,0,,Menzies 1920 [28],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",12,45,81,15.59,7145,0,,Oxley 2005 [32],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",15,55,81,8.04,4723,0,,Oxley 2009 [31],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",14,56.5,81,9.43,5175,0,,Pella 1976 [44],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",220,350,81,6.23,3850,0,,Robertson 1948 [36],Ewing 2013,1
+TNT,"2,4,6-Trinitrotoluene",51.14,78.27,80.4,16.35232706,7466.873648,0,0.060874688,Zhang 2014,Zhang 2014,8
+TNT,"2,4,6-Trinitrotoluene",87.31,144.3,80.4,8.455740635,4656.760775,0,0.029050634,Zhang 2014,Zhang 2014,8
+TNT,"2,4,6-Trinitrotoluene",81.6,102.6,80.4,3.2499,2650.8,0,0.006344823,Menzies 1920,Menzies 1920,35
+TNX,"2,4,6-Trinitro-m-xylene",39.45,83.95,112,9.256431291,4687.551509,-28.0930356,0.007373187,Bikelyte 2020,Bikelyte 2020,27
+TNX,"2,4,6-Trinitro-m-xylene",45.5,138.5,112,12.94,6779,0,,Cundall 1981 [54],Ewing 2013,1
+UN,Urea nitrate,69,124,160,9.803725103,4857.58378,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,80,134,160,9.986128786,5040.856051,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,75,144,160,12.93498832,5893.810414,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,69,139,160,13.43876992,6233.862993,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,71,138,160,12.45292144,6224.742809,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,80,133,160,11.16740978,5688.389124,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,80,137,160,10.95026254,5643.656792,0,,Brady 2012,Brady 2012,3
+UN,Urea nitrate,80,120,152,19.91,8743,0,,Oxley 2010 [47],Ewing 2013,1

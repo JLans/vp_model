@@ -1,0 +1,47 @@
+abbr,name,formula,IUPAC,CAS,smiles
+PETN,Pentaerythritol tetranitrate,C5H8N4O12,"[3-nitrooxy-2,2-bis(nitrooxymethyl)propyl] nitrate",78-11-5,O=N(=O)OCC(CON(=O)=O)(CON(=O)=O)CON(=O)=O
+TNAZ,"1,3,3-Trinitroazeditine",C3H4N4O6,"1,3,3-trinitroazetidine",97645-24-4,O=N(=O)N1CC(N(=O)=O)(N(=O)=O)C1
+HMX,Cyclotetramethylene tetranitramine,C4H8N8O8,"1,3,5,7-tetranitro-1,3,5,7-tetrazocane",2691-41-0,O=N(=O)N1CN(N(=O)=O)CN(N(=O)=O)CN(N(=O)=O)C1
+TNM,"2,4,6-Trinitromesitylene",C9H9N3O6,"1,3,5-trimethyl-2,4,6-trinitrobenzene",602-96-0,O=N(=O)C=1C(=C(C(=C(C1C)N(=O)=O)C)N(=O)=O)C
+RDX,Cyclotrimethylene trinitramine,C3H6N6O6,"1,3,5-trinitro-1,3,5-triazinane",121-82-4,O=N(=O)N1CN(N(=O)=O)CN(N(=O)=O)C1
+HNS,Hexanitrostilbene,C14H6N6O12,"1,3,5-trinitro-2-[(E)-2-(2,4,6-trinitrophenyl)ethenyl]benzene",nan,C1=C(C=C(C(=C1[N+](=O)[O-])C=CC2=C(C=C(C=C2[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]
+TNB,"1,3,5-Trinitrobenzene",C6H3N3O6,"1,3,5-trinitrobenzene",99-35-4,O=N(=O)C=1C=C(C=C(C1)N(=O)=O)N(=O)=O
+NG,Nitroglycerin,C3H5N3O9,"1,3-dinitrooxypropan-2-yl nitrate",55-63-0,O=N(=O)OCC(ON(=O)=O)CON(=O)=O
+DNAN,"2,4-dinitroanisole",C7H6N2O5,"1-methoxy-2,4-dinitrobenzene",119-27-7,O=N(=O)C1=CC=C(OC)C(=C1)N(=O)=O
+"2,4-DNT","2,4-Dinitrotoluene",C7H6N2O4,"1-methyl-2,4-dinitrobenzene",121-14-2,O=N(=O)C1=CC=C(C(=C1)N(=O)=O)C
+2-MNT,2-Nitrotoluene,C7H7NO2,1-methyl-2-nitrobenzene,88-72-2,O=N(=O)C=1C=CC=CC1C
+3-MNT,3-Nitrotoluene,C7H7NO2,1-methyl-3-nitrobenzene,99-08-1,O=N(=O)C1=CC=CC(=C1)C
+p-MNT,P-Nitrotoluene,C7H7NO2,1-methyl-4-nitrobenzene,99-99-0,O=N(=O)C1=CC=C(C=C1)C
+NGu,Nitroguanidine,CH4N4O2,1-nitroguanidine,556-88-7,O=N(=O)NC(=N)N
+DMDNB,"2,3-Dimethyl-2,3-dinitrobutane",C6H12N2O4,"2,3-Dimethyl-2,3-dinitrobutane",3964-18-9,O=N(=O)C(C)(C)C(N(=O)=O)(C)C
+TNA,"2,4,6-Trinitroaniline",C6H4N4O6,"2,4,6-trinitroaniline",489-98-5,O=N(=O)C=1C=C(C(N)=C(C1)N(=O)=O)N(=O)=O
+TATB,"1,3,5-Triamino-2,4,6-trinitrobenzene",C6H6N6O6,"2,4,6-trinitrobenzene-1,3,5-triamine",3058-38-6,O=N(=O)C=1C(N)=C(C(N)=C(C1N)N(=O)=O)N(=O)=O
+DATB,"1,3-Diamino-2,4,6-trinitrobenzene",C6H5N5O6,"2,4,6-trinitrobenzene-1,3-diamine",1630-08-6,O=N(=O)C=1C=C(C(N)=C(C1N)N(=O)=O)N(=O)=O
+SA,styphnic acid,C6H3N3O8,"2,4,6-trinitrobenzene-1,3-diol",82-71-3,O=N(=O)C=1C=C(C(O)=C(C1O)N(=O)=O)N(=O)=O
+TNP,picric acid,C6H3N3O7,"2,4,6-trinitrophenol",88-89-1,O=N(=O)C=1C=C(C(O)=C(C1)N(=O)=O)N(=O)=O
+TNX,"2,4,6-Trinitro-m-xylene",C8H7N3O6,"2,4-dimethyl-1,3,5-trinitrobenzene",632-92-8,O=N(=O)C=1C=C(C(=C(C1C)N(=O)=O)C)N(=O)=O
+TNT,"2,4,6-Trinitrotoluene",C7H5N3O6,"2-methyl-1,3,5-trinitrobenzene",118-96-7,O=N(=O)C=1C=C(C(=C(C1)N(=O)=O)C)N(=O)=O
+"2,6-DNT","2,6-Dinitrotoluene",C7H6N2O4,"2-methyl-1,3-dinitrobenzene",606-20-2,O=N(=O)C1=CC=CC(=C1C)N(=O)=O
+EGDN,Ethylene glycol dinitrate,C2H4N2O6,2-nitrooxyethyl nitrate,628-96-6,O=N(=O)OCCON(=O)=O
+TATP,Triacetone triperoxide,C9H18O6,"3,3,6,6,9,9-hexamethyl-1,2,4,5,7,8-hexaoxonane",nan,CC1(OOC(OOC(OO1)(C)C)(C)C)C
+DADP,Diacetone diperoxide,C6H12O4,"3,3,6,6-tetramethyl-1,2,4,5-tetraoxane",nan,CC1(OOC(OO1)(C)C)C
+HMTD,Hexamethylene Triperoxide Diamine,C6H12N2O6,"3,4,8,9,12,13-hexaoxa-1,6-diazabicyclo[4.4.4]tetradecane",283-66-9,O1OCN2COOCN(C1)COOC2
+DNTF,"3,4-dinitrofurazanfuroxan",C6N8O8,"3,4-bis(4-nitro-1,2,5-oxadiazol-3-yl)-2-oxido-1,2,5-oxadiazol-2-ium",nan,C1(=NO[N+](=C1C2=NON=C2[N+](=O)[O-])[O-])C3=NON=C3[N+](=O)[O-]
+35-DNP,"3,5-dinitropyrazole",C3H2N4O4,"3,5-dinitro-1H-pyrazole",nan,C1=C(NN=C1[N+](=O)[O-])[N+](=O)[O-]
+TNC,"2,4,6-Trinitro-m-cresol",C7H5N3O7,"3-methyl-2,4,6-trinitrophenol",602-99-3,O=N(=O)C=1C=C(C(=C(C1O)N(=O)=O)C)N(=O)=O
+NTO,"3-Nitro-1,2,4-triazol-5-one",C2H2N4O3,"3-nitro-1,4-dihydro-1,2,4-triazol-5-one",932-64-9,O=C1NN=C(N1)N(=O)=O
+TEX,"4,10-Dinitro-2,6,8,12-tetraoxa-4,10-diaza-tetracyclododecane",C6H6N4O8,"4,10-dinitro-2,6,8,12-tetraoxa-4,10-diazatetracyclo[5.5.0.03,11.05,9]dodecane",130919-56-1,O=N(=O)N1C2OC3OC2N(N(=O)=O)C4OC3OC14
+AN,Ammonium nitrate,NH4NO3,azanium;nitrate,6484-52-2,O=N(=O)O.N
+AP,Ammonium perchlorate,NH4ClO4,azanium;perchlorate,7790-98-9,O=Cl(=O)(=O)O.N
+GN,Guanidine nitrate,CH6N3NO3,guanidine;nitric acid,506-93-4,O=N(=O)O.N=C(N)N
+HP,Hydrogen peroxide,H2O2,hydrogen peroxide,7722-84-1,OO
+UN,Urea nitrate,CH5N2ONO3,nitric acid;urea,124-47-0,O=C(N)N.O=N(=O)O
+NM,Nitromethane,CH3NO2,nitromethane,75-52-5,O=N(=O)C
+tetryl,"N-Methyl-n,2,4,6-tetranitroaniline",C7H5N5O8,"N-methyl-N-(2,4,6-trinitrophenyl)nitramide",479-45-8,O=N(=O)C=1C=C(C(=C(C1)N(=O)=O)N(N(=O)=O)C)N(=O)=O
+NMP,N-methyl-2-pyrrolidine,C5H9NO,1-methylpyrrolidin-2-one,872-50-4,O=C1N(C)CCC1
+2AE,2-aminoethanol,C2H7NO,2-aminoethanol,141-43-5,OCCN
+BDNPA,"Bis(2,2-dinitropropyl)acetal",C8H14N4O10,"1-[1-(2,2-dinitropropoxy)ethoxy]-2,2-dinitropropane",5108-69-0,O=N(=O)C(N(=O)=O)(C)COC(OCC(N(=O)=O)(N(=O)=O)C)C
+BDNPF,Bis(dinitropropyl) formal,C7H12N4O10,"1-(2,2-dinitropropoxymethoxy)-2,2-dinitropropane",5917-61-3,O=N(=O)C(N(=O)=O)(C)COCOCC(N(=O)=O)(N(=O)=O)C
+ANI,Aniline,C6H7N,Aniline,62-53-3,NC=1C=CC=CC1
+PGDN,Propylene Glycol Dinitrate,C3H6N2O6,1-nitrooxypropan-2-yl nitrate,6423-43-4,O=N(=O)OCC(ON(=O)=O)C
+34-DNP,"3,4-dinitropyrazole",C3H2N4O4,"4,5-dinitro-1H-pyrazole",nan,C1=NNC(=C1[N+](=O)[O-])[N+](=O)[O-]
