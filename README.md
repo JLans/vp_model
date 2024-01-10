@@ -1,6 +1,7 @@
 # The Vapor Pressure Toolkit (VPT)
 
-VPT is a toolkit for building Chemprop message-passing neural network models to predict vapor pressure via vp_model
+VPT is a toolkit for building Chemprop message-passing neural network models to predict vapor pressure via vp_model.
+The necessary chemprop package can be obtained via the command "git clone --branch transfer_learning https://github.com/JLans/chemprop.git".
 
 ## Table of Contents
 [Background and description](#bckgrd_dscrpts)
